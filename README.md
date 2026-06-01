@@ -1,2 +1,7 @@
-# demo-escribania-libonati
-Demo web para Escribania Libonati — diseñada por eterlab.
+# Escribania Libonati
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
